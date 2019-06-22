@@ -102,4 +102,4 @@ The actual Element instance can be gotten from the `.root` property:
 
 ## License
 
-MIT
+[MIT](LICENSE.txt)
