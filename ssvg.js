@@ -93,7 +93,7 @@ SOFTWARE.
  * You can apply classes to elements, but use `.class` instead of `.className`:
  *
  * 	let circle = svg.circle(...)
- * 	circle.className = 'myClass'
+ * 	circle.class = 'myClass'
  *
  * The actual Element instance can be gotten from the `.root` property:
  *	
